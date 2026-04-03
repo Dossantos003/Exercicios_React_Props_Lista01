@@ -1,7 +1,7 @@
 function Titulo(props){
     return(
         <section>
-            <h1>{props.texto}</h1>
+            <h1>Texto: {props.texto}</h1>
         </section>
     )
 }
