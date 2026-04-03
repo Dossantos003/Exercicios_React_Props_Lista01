@@ -1,8 +1,8 @@
 function Produto(props){
     return(
         <>
-            <p>{props.nome}</p>
-            <p>{props.preco}</p>
+            <p>Nome :{props.nome}</p>
+            <p>Preço: {props.preco}</p>
         </>
     )
 }
