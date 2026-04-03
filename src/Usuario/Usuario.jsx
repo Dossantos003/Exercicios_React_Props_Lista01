@@ -1,8 +1,8 @@
 function Nome(props){
     return(
         <>
-            <p>{props.nome}</p>
-            <p>{props.idade}</p>
+            <p>Nome: {props.nome}</p>
+            <p>Idade: {props.idade}</p>
         </>
     )
 }
