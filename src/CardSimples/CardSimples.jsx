@@ -1,8 +1,8 @@
 function CardSimples(props){
     return(
             <div>
-                <p>{props.titulo}</p>
-                <p>{props.descricao}</p>
+                <p>Titulo: {props.titulo}</p>
+                <p>Descrição: {props.descricao}</p>
             </div>
     )
 }
