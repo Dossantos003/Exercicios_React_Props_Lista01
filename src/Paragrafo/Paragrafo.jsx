@@ -1,7 +1,7 @@
 function Paragrafo(props){
     return(
         <>
-            <p>{props.conteudo}</p>
+            <p>Conteudo: {props.conteudo}</p>
         </>
     )
 }
